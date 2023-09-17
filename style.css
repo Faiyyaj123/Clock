@@ -83,9 +83,10 @@ body {
 
 .needle.second {
   transform: translate(-50%, -100%) rotate(0deg);
-  height: 100px;
+  height: 90px;
   background-color: #e74c3c;
 }
+
 
 .center-point {
   background-color: #e74c3c;
